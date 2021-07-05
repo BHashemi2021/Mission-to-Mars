@@ -10,7 +10,10 @@ Robin, who loves astronomy and wants to work for NASA one day, has decided to us
 Figure 1: The resultant Website pulling data from NASA and other website
 
 -------------------
-![scraping-NASA-Mars-website.png](https://github.com/BHashemi2021/Mission-to-Mars/blob/main/Mars_Scraping/Resources/scraping-NASA-Mars-website.png)
+
+<p align="center">  
+![scraping-NASA-Mars-website.png]<img src="https://github.com/BHashemi2021/Mission-to-Mars/blob/main/Mars_Scraping/Resources/scraping-NASA-Mars-website.png" width="60%" height="60%">
+</p>
 
 ------------------
 
@@ -19,7 +22,7 @@ The data Robin wants to collect from this particular website is the most recent 
 The code for this will eventually be used in an application that will scrape live data by click a button — this site is dynamic and the articles will change frequently, which is why Robin is removing the manual task of retrieving each news article.
 
 
-####Technically:
+## Technically:
 	
 	
 	1- We will write two separate scripts in Python Environment language in Jupyter Notebook to test the results at every step of the way and finally export them as app.py and scraping.py.
@@ -42,7 +45,7 @@ The code for this will eventually be used in an application that will scrape liv
  
 
 
-### Deliverable 1 outputs
+### Deliverable 1 Outputs
 
 The screenshot of the web application displating the retrieved data (Figure 2) and the images of Mars Hemispheres are shown in Figure 3.
 
