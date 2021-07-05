@@ -63,13 +63,23 @@ The screenshot of the web application displating the retrieved data (Figure 2) a
 
 
 
-URLS
- 
+
+Data Source:
 -   https://mars.nasa.gov/news/
 -   https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars
 -   https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars
 
+Environment: 
+- Python 3.7
 
+Dependencies: 
+- Beautiful Soup and Splinter 
+
+Languages: 
+- HTML, CSS, Bootstrap 3 and Python
+
+Software: 
+- Jupyter Notebook, VS Code,  MongoDB, Flask and Chrome and Ghost-writer to write and edit the README file
 
 
 
