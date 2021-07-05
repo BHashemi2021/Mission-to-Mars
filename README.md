@@ -27,10 +27,10 @@ The code for this will eventually be used in an application that will scrape liv
 	
 	1- We will write two separate scripts in Python Environment language in Jupyter Notebook to test the results at every step of the way and finally export them as app.py and scraping.py.
 	
-	2- We will run the app by calling it through Anaconda terminal using Python language. The app.py will employ the scraping script to scrape data from the three websites.
+	2- We will run the app by calling it through Anaconda terminal using Python language. The app.py will employ the scraping script to scrape data from the above websites.
 	
 	
-	3- To scrape the data we will identify the HTML and CSS components of the three aforesaid websites by Chrome Developer Tool.
+	3- To scrape the data we will identify the HTML and CSS components of theabove aforesaid websites by Chrome Developer Tool.
 	
 	4- The we will extract the needed data by Beautiful Soup. 
 	
