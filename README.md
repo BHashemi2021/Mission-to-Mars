@@ -6,6 +6,13 @@ Robin's web app is looking good and functioning well, but she wants to add more 
 
 Robin, who loves astronomy and wants to work for NASA one day, has decided to use a specific method of gathering the latest data: web scraping. Using this technique, she has the ability to pull data from multiple websites, store it in a database, then present the collected data in a central location: a webpage (Figure 1).
 
+Figure 1: The resultant Website pulling data from NASA and other website
+
+-------------------
+![scraping-NASA-Mars-website.png](https://github.com/BHashemi2021/Mission-to-Mars/blob/main/Mars_Scraping/Resources/scraping-NASA-Mars-website.png)
+
+------------------
+
 The data Robin wants to collect from this particular website is the most recent news article along with its summary. 
 
 The code for this will eventually be used in an application that will scrape live data with the click of a button—this site is dynamic and the articles will change frequently, which is why Robin is removing the manual task of retrieving each new article.
