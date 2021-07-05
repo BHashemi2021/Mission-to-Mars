@@ -3,7 +3,7 @@
 
 ## Overview
 
-Robin, who loves astronomy and wants to work for NASA one day, has decided to use a specific method of gathering the latest data: web scraping. We have been tasked to help Robin build a web app is looking good and functioning well to pull and display the latest feature stories from NASA and the related image. She also likes a table to hold and compare facts between the two planets, the Earth and Mars. Moreover she has been admiring images of Mars’s hemispheres online on another website and realizes that the site is scraping-friendly. She would like to adjust the current web app to include all four of the hemisphere images. To do this, we have to use BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and the titles of those images, store the scraped data on a Mongo database, use a web application to display the data, and alter the design of the web app to accommodate these images (Figure 1).
+Robin, who loves astronomy and wants to work for NASA one day, has decided to use a specific method of gathering the latest data: web scraping. We have been tasked to help Robin build a web app is looking good and functioning well to pull and display the [latest feature stories on Mars from NASA](https://mars.nasa.gov/news/) and the related image from [NASA Jet Propulsion Laboratory (JPL) website](https://www.jpl.nasa.gov/). She also likes a table to hold and compare facts between the two planets, the Earth and Mars retrieved from [Galaxy Facts website](https://data-class-mars-facts.s3.amazonaws.com/Mars_Facts/index.html). Moreover she has been admiring images of Mars’s hemispheres online on [Astropedia website](https://data-class-mars-facts.s3.amazonaws.com/Mars_Facts/index.html) and realizes that the site is scraping-friendly. She would like to adjust the current web app to include all four of the hemisphere images. To do this, we have to use BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and the titles of those images, store the scraped data on a Mongo database, use a web application to display the data, and alter the design of the web app to accommodate these images (Figure 1).
 
 
 
@@ -30,11 +30,11 @@ The code for this will eventually be used in an application that will scrape liv
 	2- We will run the app by calling it through Anaconda terminal using Python language. The app.py will employ the scraping script to scrape data from the three websites.
 	
 	
-	3- To scrape the data we will identify the HTML and CSS components of the three aforesaid websites by  ** Chrome Developer Tool.
+	3- To scrape the data we will identify the HTML and CSS components of the three aforesaid websites by Chrome Developer Tool.
 	
-	4- The we will extract the needed data by * Beautiful Soup 
+	4- The we will extract the needed data by Beautiful Soup. 
 	
-	5- Automate the web browser to visit each website by * Splinter
+	5- Automate the web browser to visit each website by Splinter.
 	
 	6- Store the scraped data by MongoDB, NoSQL database for un-formatted data (data that is not tabular - we use SQL for holding tabular data).
 	
@@ -61,6 +61,8 @@ The screenshot of the web application displating the retrieved data (Figure 2) a
 
 
 
+
+
 #### Figure 3: Mars Hemispheres
 
 -----------------
@@ -72,12 +74,6 @@ The screenshot of the web application displating the retrieved data (Figure 2) a
 
 -----------------
 
-
-URLS
- 
--   https://mars.nasa.gov/news/
--   https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars
--   https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars
 
 
 
