@@ -19,10 +19,29 @@ The code for this will eventually be used in an application that will scrape liv
 
 Robin's web app is looking good and functioning well, but she wants to add more polish to it. She had been admiring images of Mars’s hemispheres online and realized that the site is scraping-friendly. She would like to adjust the current web app to include all four of the hemisphere images. To do this, you’ll use BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and the titles of those images, store the scraped data on a Mongo database, use a web application to display the data, and alter the design of the web app to accommodate these images.
 
-### What We Are Creating
+### Deliverable 1 outputs
 
-This new assignment consists of three technical analyses. You will submit the following deliverables:
+#### Figure 2: The screenshot of the website
 
-##### Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles
-##### Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
-##### Deliverable 3: Add Bootstrap 3 Components
+-----------------
+![hemi1.png](https://github.com/BHashemi2021/Mission-to-Mars/blob/main/Mars_Scraping/Resources/hemi1.png)
+
+----------------- 
+
+
+
+#### Figure 3: The Hemisphres
+
+-----------------
+![hemispheres.png](https://github.com/BHashemi2021/Mission-to-Mars/blob/main/Mars_Scraping/Resources/hemispheres.png)
+
+----------------- 
+
+
+
+
+
+
+
+
+
