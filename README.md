@@ -7,12 +7,12 @@ Robin, who loves astronomy and wants to work for NASA one day, has decided to us
 
 
 
-Figure 1: The resultant Website pulling data from NASA and other website
+Figure 1: The resultant Website pulling data from NASA and two other websites
 
 -------------------
 
 <p align="center">  
-![scraping-NASA-Mars-website.png]<img src="https://github.com/BHashemi2021/Mission-to-Mars/blob/main/Mars_Scraping/Resources/scraping-NASA-Mars-website.png" width="60%" height="60%">
+<img src="https://github.com/BHashemi2021/Mission-to-Mars/blob/main/Mars_Scraping/Resources/scraping-NASA-Mars-website.png" width="75%" height="75%">
 </p>
 
 ------------------
