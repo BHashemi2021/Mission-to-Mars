@@ -52,18 +52,25 @@ The screenshot of the web application displating the retrieved data (Figure 2) a
 #### Figure 2: Screen-shot of the Website
 
 -----------------
-![hemi1.png](https://github.com/BHashemi2021/Mission-to-Mars/blob/main/Mars_Scraping/Resources/hemi1.png)
+
+<p align="center">  
+<img src="https://github.com/BHashemi2021/Mission-to-Mars/blob/main/Mars_Scraping/Resources/hemi1.png" width="75%" height="75%">
+</p>
 
 ----------------- 
 
 
 
-#### Figure 3: The Hemispheres
+#### Figure 3: Mars Hemispheres
 
 -----------------
-![hemispheres.png](https://github.com/BHashemi2021/Mission-to-Mars/blob/main/Mars_Scraping/Resources/hemispheres.png)
+
+<p align="center">  
+<img src="https://github.com/BHashemi2021/Mission-to-Mars/blob/main/Mars_Scraping/Resources/hemispheres.png" width="75%" height="75%">
+</p>
 
 
+-----------------
 
 
 URLS
