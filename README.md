@@ -7,7 +7,7 @@ Robin, who loves astronomy and wants to work for NASA one day, has decided to us
 
 
 
-Figure 1: The resultant Website pulling data from NASA and two other websites
+#### Figure 1: The resultant Website pulling data from NASA and two other websites
 
 -------------------
 
