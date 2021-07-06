@@ -1,5 +1,5 @@
 # Mission To Mars
-* Scraping web with HTML and CSS*
+* Scraping web with HTML and CSS 
 
 ## Overview
 
